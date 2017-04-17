@@ -1,4 +1,5 @@
 import { EvercraftMigratePage } from './app.po';
+const expect = global['chai'].expect;
 
 describe('evercraft-migrate App', () => {
   let page: EvercraftMigratePage;
